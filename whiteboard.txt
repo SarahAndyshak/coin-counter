@@ -1,0 +1,23 @@
+const coinCounter = (change) =>
+if (change % 0) {
+  return coinCounter;
+}
+{
+  divide by .01 (pennies)
+  {
+    divide by .05 (nickels)
+    {
+      divide by .10 (dimes) 
+      {
+        divide by .25 (quarters)
+      }
+    }
+  }
+}
+coinCounter = 4.99
+
+
+divide by .01 (pennies)
+divide by .05 (nickels)
+divide by .10 (dimes)
+divide by .25 (quarters)
